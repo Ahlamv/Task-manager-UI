@@ -1,6 +1,8 @@
 # Task Management Application
 
 A modern, responsive task management web application built with HTML, CSS, and JavaScript. This application allows users to manage their daily tasks with a beautiful and intuitive interface.
+![image](https://github.com/user-attachments/assets/4d8b6130-ffda-476b-9103-9ebbf09968ad)
+
 
 ## Features
 
