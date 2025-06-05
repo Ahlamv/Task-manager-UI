@@ -1,0 +1,21 @@
+.gradient-bg {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
+.gradient-btn {
+    background: linear-gradient(135deg, #667eea, #764ba2);
+}
+.gradient-phone {
+    background: linear-gradient(135deg, #1a202c, #2d3748);
+}
+.gradient-screen {
+    background: linear-gradient(135deg, #f7fafc, #edf2f7);
+}
+.task-item:hover {
+    transform: translateY(-2px);
+}
+.btn-hover:hover {
+    transform: translateY(-2px);
+}
+.add-btn:hover {
+    transform: translateY(-1px);
+}
